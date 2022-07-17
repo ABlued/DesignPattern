@@ -1,4 +1,4 @@
-package duckProgram;
+package strategyPattern;
 
 public class RubberDuck extends Duck{
     public RubberDuck() {

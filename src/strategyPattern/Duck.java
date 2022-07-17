@@ -1,4 +1,4 @@
-package duckProgram;
+package strategyPattern;
 
 public abstract class Duck {
     QuackBehavior quackBehavior;
