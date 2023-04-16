@@ -1,6 +1,6 @@
-package decoratorPattern.additives;
+package decoratorPattern.starbucks.additives;
 
-import decoratorPattern.Beverage;
+import decoratorPattern.starbucks.Beverage;
 
 public class Soy extends CondimentDecorator{
     public Soy(Beverage beverage) {

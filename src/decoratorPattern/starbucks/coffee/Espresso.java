@@ -1,6 +1,6 @@
-package decoratorPattern.coffee;
+package decoratorPattern.starbucks.coffee;
 
-import decoratorPattern.Beverage;
+import decoratorPattern.starbucks.Beverage;
 
 public class Espresso extends Beverage {
     public Espresso() {

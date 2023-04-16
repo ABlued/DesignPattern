@@ -1,10 +1,10 @@
-package decoratorPattern.coffee;
+package decoratorPattern.starbucks.coffee;
 
-import decoratorPattern.Beverage;
+import decoratorPattern.starbucks.Beverage;
 
 public class DarkRoast extends Beverage {
     public DarkRoast(){
-        String description = "다크 로스트";
+        description = "다크 로스트";
     }
 
     @Override

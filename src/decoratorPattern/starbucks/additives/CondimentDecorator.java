@@ -1,6 +1,6 @@
-package decoratorPattern.additives;
+package decoratorPattern.starbucks.additives;
 
-import decoratorPattern.Beverage;
+import decoratorPattern.starbucks.Beverage;
 
 public abstract class CondimentDecorator extends Beverage {
     Beverage beverage;

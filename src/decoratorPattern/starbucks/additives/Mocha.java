@@ -1,6 +1,6 @@
-package decoratorPattern.additives;
+package decoratorPattern.starbucks.additives;
 
-import decoratorPattern.Beverage;
+import decoratorPattern.starbucks.Beverage;
 
 public class Mocha extends CondimentDecorator {
     public Mocha(Beverage beverage) {
